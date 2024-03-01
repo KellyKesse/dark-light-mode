@@ -94,7 +94,7 @@ body * {
 }
 
 #switch button:hover {
-  outlone: 8px solid var(--highlight-color);
+  outline: 8px solid var(--highlight-color);
 }
 
 #switch span {
